@@ -8,3 +8,6 @@ welcome to telusko kitchen
 kheer
 bhadam
 chicken fry
+
+paneer
+bread
